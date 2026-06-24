@@ -4,7 +4,7 @@
 
 CareerLink is a full-stack career analysis and job matching platform that helps users understand their career readiness, identify skill gaps, and discover suitable job opportunities based on their CV or manually entered profile information.
 
-> This is a public showcase repository. The original source code is kept private.
+> This is a public showcase repository.
 
 ---
 
