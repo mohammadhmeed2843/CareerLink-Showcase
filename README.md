@@ -337,7 +337,7 @@ Main tested areas:
 
 Additional project documentation is available in the `docs/` directory.
 
-* [CareerLink Project Report](docs/CareerLink-Project-Report.pdf)
+* [CareerLink Project Report](docs/CareerLink-Project-Report.docx)
 
 ---
 
@@ -368,7 +368,6 @@ The project demonstrates the design and implementation of a real-world style car
 Developed by:
 
 * Mohammad Hmeed
-* Bashar Almashahreh
 
 ---
 
